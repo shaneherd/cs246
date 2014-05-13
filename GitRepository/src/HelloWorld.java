@@ -1,6 +1,6 @@
 
 public class HelloWorld {
-	String hello = "Hello GitHub World";
+	String hello = "Hello GitHub";
 	
 	public void run() {
 		System.out.println(hello);
